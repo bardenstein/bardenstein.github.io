@@ -1,5 +1,7 @@
 Welcome to my site. I am passionate about leveraging technology and building user-centric products to solve important, real-world problems that impact our democracy: securing our government, institutions, people, and information. I love to read about and discuss the intersection of technology, security, privacy, policy, and geopolitics. 
 
+Simple websites are the perfect intersection of minimal design & maximum security. 
+
 I provide Political Tech / Campaign Security consulting:
 - Setting up all of the apps & tools for document sharing, chat, comms, etc. 
 - Properly & securing configuring websites, email, and apps
