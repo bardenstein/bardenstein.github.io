@@ -1,4 +1,4 @@
-Welcome to my site. I am passionate about leveraging technology and building user-centric products to solve important, real-world problems that impact our democracy: securing our government, institutions, people, and information. I love to read about and discuss the intersection of technology, security, privacy, policy, and geopolitics. 
+I am passionate about leveraging technology and building user-centric products to solve important, real-world problems that impact our democracy: securing our government, institutions, people, and information. I love to read about and discuss the intersection of technology, security, privacy, policy, and geopolitics. 
 
 Simple websites are the perfect intersection of minimal design & maximum security. 
 
